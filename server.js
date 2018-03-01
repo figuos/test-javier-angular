@@ -1,5 +1,5 @@
 // server.js
-const path = require ('ruta');
+const path = require ('./');
 // ...
 // For all GET requests, send back index.html
 // so that PathLocationStrategy can be used
